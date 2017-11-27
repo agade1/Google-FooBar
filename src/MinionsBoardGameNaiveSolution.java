@@ -2,7 +2,7 @@
  *
  * Solution by : Amol Gade
  *
- * Note: for education purpose only
+ * Note: for education purposes only
  *
  * Problem statement:
  * Minion's bored game
@@ -29,13 +29,7 @@
  n and t will be positive integers, no more than 1000. n will be at least 2.
 
 
- Languages
- =========
-
- To provide a Python solution, edit solution.py
- To provide a Java solution, edit solution.java
-
- Test cases
+Test cases
  ==========
 
  Inputs:
