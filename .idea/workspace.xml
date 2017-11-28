@@ -12,31 +12,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MinionsBoardGame.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MinionsBoardGame.java">
+      <file leaf-file-name="Species.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Species.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+            <state relative-caret-position="135">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MinglishDictionary.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MinglishDictionary.java">
+      <file leaf-file-name="RustyCalculator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RustyCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            <state relative-caret-position="135">
+              <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpySnippets.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SpySnippets.java">
+      <file leaf-file-name="ZombieRabbit.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ZombieRabbit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -59,6 +59,9 @@
         <option value="$PROJECT_DIR$/src/MinionsBoardGame.java" />
         <option value="$PROJECT_DIR$/src/MinglishDictionary.java" />
         <option value="$PROJECT_DIR$/src/SpySnippets.java" />
+        <option value="$PROJECT_DIR$/src/Species.java" />
+        <option value="$PROJECT_DIR$/src/RustyCalculator.java" />
+        <option value="$PROJECT_DIR$/src/ZombieRabbit.java" />
       </list>
     </option>
   </component>
@@ -90,7 +93,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,9 +111,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -128,7 +131,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SpySnippets">
+  <component name="RunManager" selected="Application.ZombieRabbit">
     <configuration name="MinglishDictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="MinglishDictionary" />
@@ -143,9 +146,9 @@
       <module name="Google-FooBar" />
       <envs />
     </configuration>
-    <configuration name="MinionsBoardGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="RustyCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="MinionsBoardGame" />
+      <option name="MAIN_CLASS_NAME" value="RustyCalculator" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -157,9 +160,9 @@
       <module name="Google-FooBar" />
       <envs />
     </configuration>
-    <configuration name="MinionsBoardGameNaiveSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Species" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="MinionsBoardGameNaiveSolution" />
+      <option name="MAIN_CLASS_NAME" value="Species" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -185,14 +188,9 @@
       <module name="Google-FooBar" />
       <envs />
     </configuration>
-    <configuration name="WhenItRainsItPours" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="google.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="google.WhenItRainsItPours" />
+    <configuration name="ZombieRabbit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="ZombieRabbit" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -220,19 +218,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.MinionsBoardGame" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MinionsBoardGameNaiveSolution" />
-      <item index="2" class="java.lang.String" itemvalue="Application.WhenItRainsItPours" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MinglishDictionary" />
-      <item index="4" class="java.lang.String" itemvalue="Application.SpySnippets" />
+      <item index="0" class="java.lang.String" itemvalue="Application.MinglishDictionary" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SpySnippets" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Species" />
+      <item index="3" class="java.lang.String" itemvalue="Application.RustyCalculator" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ZombieRabbit" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SpySnippets" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MinglishDictionary" />
-        <item index="2" class="java.lang.String" itemvalue="Application.WhenItRainsItPours" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MinionsBoardGameNaiveSolution" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MinionsBoardGame" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ZombieRabbit" />
+        <item index="1" class="java.lang.String" itemvalue="Application.RustyCalculator" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Species" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SpySnippets" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MinglishDictionary" />
       </list>
     </recent_temporary>
   </component>
@@ -251,12 +249,14 @@
       <workItem from="1511823919112" duration="734000" />
       <workItem from="1511898201762" duration="136000" />
       <workItem from="1511898853920" duration="175000" />
-      <workItem from="1511899341061" duration="90000" />
+      <workItem from="1511899341061" duration="186000" />
+      <workItem from="1511899823135" duration="16000" />
+      <workItem from="1511900143181" duration="172000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1424000" />
+    <option name="totallyTimeSpent" value="1708000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="44" y="23" width="1236" height="777" extended-state="0" />
@@ -302,6 +302,68 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/MinglishDictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MinionsBoardGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpySnippets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="6" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+          <folding>
+            <element signature="e#3307#3315#0" expanded="true" />
+            <element signature="e#3376#3384#0" expanded="true" />
+            <element signature="e#3449#3457#0" expanded="true" />
+            <element signature="e#3511#3519#0" expanded="true" />
+            <element signature="e#3571#3579#0" expanded="true" />
+            <element signature="e#6459#6467#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MinionsBoardGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MinglishDictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpySnippets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+          <folding>
+            <element signature="e#3307#3315#0" expanded="true" />
+            <element signature="e#3376#3384#0" expanded="true" />
+            <element signature="e#3449#3457#0" expanded="true" />
+            <element signature="e#3511#3519#0" expanded="true" />
+            <element signature="e#3571#3579#0" expanded="true" />
+            <element signature="e#6459#6467#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/MinionsBoardGame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -367,11 +429,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MinionsBoardGame.java">
+    <entry file="file://$PROJECT_DIR$/src/SpySnippets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-          <folding />
+        <state relative-caret-position="315">
+          <caret line="21" column="6" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+          <folding>
+            <element signature="e#3307#3315#0" expanded="true" />
+            <element signature="e#3376#3384#0" expanded="true" />
+            <element signature="e#3449#3457#0" expanded="true" />
+            <element signature="e#3511#3519#0" expanded="true" />
+            <element signature="e#3571#3579#0" expanded="true" />
+            <element signature="e#6459#6467#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -383,10 +452,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SpySnippets.java">
+    <entry file="file://$PROJECT_DIR$/src/MinionsBoardGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        <state relative-caret-position="-264">
+          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Species.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RustyCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZombieRabbit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
