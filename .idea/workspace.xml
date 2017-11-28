@@ -22,11 +22,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MinglishDictionary.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MinglishDictionary.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MinglishDictionary.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpySnippets.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SpySnippets.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -48,6 +58,7 @@
         <option value="$PROJECT_DIR$/src/MinionsBoardGameNaiveSolution.java" />
         <option value="$PROJECT_DIR$/src/MinionsBoardGame.java" />
         <option value="$PROJECT_DIR$/src/MinglishDictionary.java" />
+        <option value="$PROJECT_DIR$/src/SpySnippets.java" />
       </list>
     </option>
   </component>
@@ -79,6 +90,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -95,10 +107,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -117,23 +128,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinglishDictionary">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Google-FooBar" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-    </configuration>
+  <component name="RunManager" selected="Application.SpySnippets">
     <configuration name="MinglishDictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="MinglishDictionary" />
@@ -165,6 +160,20 @@
     <configuration name="MinionsBoardGameNaiveSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="MinionsBoardGameNaiveSolution" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Google-FooBar" />
+      <envs />
+    </configuration>
+    <configuration name="SpySnippets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="SpySnippets" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -211,19 +220,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MinionsBoardGame" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MinionsBoardGameNaiveSolution" />
-      <item index="3" class="java.lang.String" itemvalue="Application.WhenItRainsItPours" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MinglishDictionary" />
+      <item index="0" class="java.lang.String" itemvalue="Application.MinionsBoardGame" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MinionsBoardGameNaiveSolution" />
+      <item index="2" class="java.lang.String" itemvalue="Application.WhenItRainsItPours" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MinglishDictionary" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SpySnippets" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MinglishDictionary" />
-        <item index="1" class="java.lang.String" itemvalue="Application.WhenItRainsItPours" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MinionsBoardGameNaiveSolution" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MinionsBoardGame" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SpySnippets" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MinglishDictionary" />
+        <item index="2" class="java.lang.String" itemvalue="Application.WhenItRainsItPours" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MinionsBoardGameNaiveSolution" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MinionsBoardGame" />
       </list>
     </recent_temporary>
   </component>
@@ -241,12 +250,13 @@
       <workItem from="1511823237941" duration="259000" />
       <workItem from="1511823919112" duration="734000" />
       <workItem from="1511898201762" duration="136000" />
-      <workItem from="1511898853920" duration="49000" />
+      <workItem from="1511898853920" duration="175000" />
+      <workItem from="1511899341061" duration="90000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1208000" />
+    <option name="totallyTimeSpent" value="1424000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="44" y="23" width="1236" height="777" extended-state="0" />
@@ -292,6 +302,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/MinionsBoardGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MinglishDictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/MinionsBoardGame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -352,7 +378,15 @@
     <entry file="file://$PROJECT_DIR$/src/MinglishDictionary.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SpySnippets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
           <folding />
         </state>
       </provider>
