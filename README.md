@@ -1,1 +1,1 @@
-# Google-FooBar: Google coding challenges
+# Google-FooBar: Coding challenges by Google
